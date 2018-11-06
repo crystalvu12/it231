@@ -1,0 +1,16 @@
+MANIFEST.in
+flask1/__init__.py
+flask1/auth.py
+flask1/flaskr/__init__.py
+flask1/flaskr/auth.py
+flask1/flaskr/blueprints.py
+flask1/flaskr/db.py
+flask1/flaskr/debughelpers.py
+flask1/flaskr/templating.py
+flask1/flaskr/flask-tutorial/__init__.py
+flaskr.egg-info/PKG-INFO
+flaskr.egg-info/SOURCES.txt
+flaskr.egg-info/dependency_links.txt
+flaskr.egg-info/not-zip-safe
+flaskr.egg-info/requires.txt
+flaskr.egg-info/top_level.txt
